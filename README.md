@@ -8,7 +8,11 @@
 
 ***1.2 OBJETIVOS ESPECÍFICOS.***
 
+*-Investigar el uso que se tiene el aplicar números complejos y representarlos en el plano, para dar interpretaciones en el circuito eléctrico.*
 
+*-Diferenciar el comportamiento de los circuitos RC y RL en serie y paralelo.*
+
+*-Estudiar la impedancia y admitancia en circuitos RL y RC.*
 
 ## 2. MARCO TEÓRICO (RESUMEN)
 
