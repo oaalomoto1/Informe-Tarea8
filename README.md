@@ -226,8 +226,17 @@
 ![image](https://user-images.githubusercontent.com/116774906/220226701-570adb3d-b1d3-4462-b211-ad2c751f2a9a.png)
 ## 4. VIDEO.
 
+*Link del video*
+
+https://youtu.be/g2YXWQL1DhI
 
 ## 5. CONCLUSIONES
+
+*-El uso de esta representación en el electricidad de los números complejos son una manera matemática de definir fasores, o lo que es lo mismo, un punto del plano respecto a unos ejes de coordenadas que se cruzan perpendicularmente en un punto (origen). Al eje de las x se le denomina eje real y al eje de las y se le denomina eje imaginario.*
+
+*-Se sabe que un en un circuito RC paralelo en AC, el valor del voltaje es el mismo en el condensador y en la resistencia. La corriente (corriente alterna) que la fuente entrega al circuito se divide entre la resistencia y el condensador. Mientras que el circuito RL serie en corriente alterna, se tiene una resistencia y una bobina en serie. La corriente en ambos elementos es la misma. La tensión en la bobina está en fase con la corriente (corriente alterna) que pasa por ella (tienen sus valores máximos simultáneamente).*
+ 
+*-La impedancia y admitancia están muy presentes en los circuitos RL y RC, puesto a eso la impedancia representa la oposición que ejerce un circuito eléctrico al paso de la corriente senoidal. La admitancia por su parte, representa lo contrario, la falta de oposición al paso de la corriente senoidal.
 
 
 ## 6. BIBLIOGRAFÍA
