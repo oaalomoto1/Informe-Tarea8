@@ -54,9 +54,81 @@
 
 ***3.1. CAPÍTULO 15 CIRCUITOS RC.***
 
+**2. Localice los siguientes números en el plano complejo:**
 
+![image](https://user-images.githubusercontent.com/116774906/220447605-308d74a2-13d4-4943-9af1-4d974058a9a5.png)
 
+**4. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 180° de cada uno de los puntos del problema 3.**
 
+![image](https://user-images.githubusercontent.com/116774906/220447664-04106502-fcc7-4861-b7e6-da023154facf.png)
+
+**6. A continuación se describen puntos localizados en el plano complejo. Exprese cada punto como un número complejo en forma rectangular:**
+
+![image](https://user-images.githubusercontent.com/116774906/220447730-885d4492-034e-4940-b697-e31afefd9783.png)
+
+**8. Convierta cada uno de los siguientes números rectangulares a forma polar:**
+
+![image](https://user-images.githubusercontent.com/116774906/220447854-fe9dd1f0-d98c-48f2-a212-a40b663e3e0a.png)
+
+**10. Exprese cada uno de los siguientes números polares utilizando un ángulo negativo para reemplazar al positivo.**
+
+![image](https://user-images.githubusercontent.com/116774906/220447925-a0827ea1-4755-4b27-aa48-d677cf71e4a1.png)
+
+**12. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.**
+
+![image](https://user-images.githubusercontent.com/116774906/220448001-47dbba5d-8f2b-46e9-a37f-60ed15ac3576.png)
+
+**14. Sume los siguientes conjuntos de números complejos:**
+
+![image](https://user-images.githubusercontent.com/116774906/220448055-1458d3c2-0f61-4ae7-9079-139665d02316.png)
+
+**16. Multiplique los siguientes números:**
+
+![image](https://user-images.githubusercontent.com/116774906/220448117-ab99e80c-e2c4-423e-a623-a92b08b59ff7.png)
+
+**18. Realice las siguientes operaciones:**
+
+![image](https://user-images.githubusercontent.com/116774906/220448219-3ac3ba61-bf8f-4f20-9a3f-6cf6c0bb0e5f.png)
+
+**20. ¿Cuál es la forma de onda de la corriente en el circuito del problema 19?**
+
+![image](https://user-images.githubusercontent.com/116774906/220448292-8dea2ec7-4b1b-4e9e-b4b9-efe144fc02aa.png)
+
+**22. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85.**
+
+![image](https://user-images.githubusercontent.com/116774906/220448398-4ff7ce23-a224-4cef-9b77-504cfee393ba.png)
+
+**24. Repita el problema 23 con C = 0.0047 µF.**
+
+![image](https://user-images.githubusercontent.com/116774906/220448487-f025cfd8-0346-4bb7-bbf8-4eaa69cc0aee.png)
+
+**26. Exprese la corriente en forma polar para cada circuito de la figura 15-84.**
+
+![image](https://user-images.githubusercontent.com/116774906/220448565-7d4c423e-bd99-44b2-9ee7-bfa37fe31e12.png)
+
+**28. Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85.**
+
+![image](https://user-images.githubusercontent.com/116774906/220448683-11a8c07f-d6cc-448d-8d7d-6dc2860e58ac.png)
+
+**30. Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase**
+
+![image](https://user-images.githubusercontent.com/116774906/220448840-f07a389a-66ee-4842-863f-3fc6a60a5932.png)
+
+**32. ¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA? ¿Cuál es el ángulo resultante?**
+
+![image](https://user-images.githubusercontent.com/116774906/220448915-128c35d1-7683-422a-9a3e-ef80ef6eccc8.png)
+
+**34. Para el circuito de retraso de la figura 15-91, determine el desplazamiento de fase entre el voltaje de entrada y el voltaje de salida para cada una de las siguientes frecuencias:**
+
+![image](https://user-images.githubusercontent.com/116774906/220449004-e8abe32b-c532-42b6-a0f4-d9e82cf068a4.png)
+
+**38. Trace el diagrama fasorial de voltaje para el circuito de la figura 15-91 para una frecuencia de 5 kHz con Vs = 1 V rms**
+
+![image](https://user-images.githubusercontent.com/116774906/220449074-bed8d6ef-5207-4dc1-ae2a-b7bf6770e170.png)
+
+**40. Determine la impedancia y exprésela en forma polar para el circuito de la figura 15-93.**
+
+![image](https://user-images.githubusercontent.com/116774906/220449145-3eec4614-e0fb-4882-af1f-58fbbce6771a.png)
 
 
 ***3.2. CAPÍTULO 16 CIRCUITOS RL.***
